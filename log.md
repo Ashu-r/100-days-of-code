@@ -16,7 +16,12 @@
 **Link(s) to work**
 [fullstackopen phonebook](https://github.com/Ashu-r/fullstackopen/tree/master/part2/phonebook)
 
-### Day 1: September 31, Thursday
+### Day 1: October 1, Thursday
 **Today's Progress**: I completed exercises 2.11 to 2.15 on fullstackopen
+**Thoughts** I will continue to do fullstackopen open and along with that I am planning to do more advanced vanilla js
+**Link*": I will update them tomorrow
+
+### Day 2: October 2, Friday
+**Today's Progress**: I completed exercises 2.16 to 2.20 on fullstackopen
 **Thoughts** I will continue to do fullstackopen open and along with that I am planning to do more advanced vanilla js
 **Link*": I will update them tomorrow
